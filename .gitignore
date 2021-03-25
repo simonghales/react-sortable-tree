@@ -17,7 +17,7 @@ coverage
 .cache
 #dist
 build
-style.css
+#style.css
 style.css.map
 
 # Error files
